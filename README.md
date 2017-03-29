@@ -1,16 +1,2 @@
-<<<<<<< Updated upstream
-# D.Eco
-Software Engineering IOS Team
-- test push
-test kylie
-
-test Cyler push
-second test
-
-Test again... Cory
-push push
-
-Bijan test push
-Push it... Push it real good
-=======
->>>>>>> Stashed changes
+## READ.ME
+This repository contains the IOS/Android design and code base for the D.Eco application. This is the senior project for Drury students enrolled in CSCI 371, Spring 2017. 
