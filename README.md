@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # D.Eco
 Software Engineering IOS Team
 - test push
@@ -11,3 +12,5 @@ push push
 
 Bijan test push
 Push it... Push it real good
+=======
+>>>>>>> Stashed changes
